@@ -15,6 +15,8 @@ public class Exercicio8 {
 		System.out.println(divisao);
 		System.out.println(divisaoPF);
 		
+		sc.close();
+		
 		
 	}
 
