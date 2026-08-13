@@ -13,6 +13,8 @@ public class Exercicio6 {
 		
 		System.out.println("O monitor custa " + valorReais + " reais");
 		
+		sc.close();
+		
 	}
 
 }

@@ -16,6 +16,8 @@ public class Exercicio7 {
 		System.out.println(salarioInteiro);
 		System.out.println(NewSalario);
 		
+		sc.close();
+		
 	}
 
 }

@@ -13,6 +13,8 @@ public class Exercicio5 {
 		System.out.println("Total: " + soma);
 		System.out.println(soma/3);
 		
+		sc.close();
+		
 	}
 
 }
